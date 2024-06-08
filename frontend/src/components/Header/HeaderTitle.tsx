@@ -1,3 +1,3 @@
 export function HeaderTitle() {
-  return <p className="text-3xl font-bold text-black">FindBook</p>;
+  return <h1 className="text-3xl font-bold text-black">FindBook</h1>;
 }

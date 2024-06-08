@@ -1,9 +1,9 @@
-import { HeaderTitle } from "./components/Header/HeaderTitle";
+import { Header } from "./components/Header/Header";
 
 function App() {
   return (
     <>
-      <HeaderTitle />
+      <Header />
     </>
   );
 }
