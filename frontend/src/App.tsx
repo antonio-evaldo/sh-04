@@ -1,7 +1,9 @@
+import { HeaderTitle } from "./components/Header/HeaderTitle";
+
 function App() {
   return (
     <>
-      <h1 className="bg-gray-900 text-green-500">Hello World!</h1>
+      <HeaderTitle />
     </>
   );
 }
